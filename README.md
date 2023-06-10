@@ -1,4 +1,4 @@
-The purpose of this project is to create a working neural network from scratch in C++ and train it with genetic algorithm.
+The purpose of this project is to create a working neural network from scratch in C++ and train it purely with genetic algorithm.
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 First goal was to train a small (3 layers) model to recognise if a color is red or not, based on the color's RGB code.
